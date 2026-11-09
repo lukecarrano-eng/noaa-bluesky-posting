@@ -1,6 +1,6 @@
 # How Do NOAA's Bluesky Accounts Differ in What and When They Post?
 
-**Author:** Your Name
+**Author:** Luke Carrano
 
 ## Summary
 
